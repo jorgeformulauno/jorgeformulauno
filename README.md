@@ -55,8 +55,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgeformulauno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0088FF&text_color=C9D1D9&icon_color=0088FF" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeformulauno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0088FF&text_color=C9D1D9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jorgeformulauno&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0088FF&text_color=C9D1D9&icon_color=0088FF" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jorgeformulauno&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0088FF&text_color=C9D1D9" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
