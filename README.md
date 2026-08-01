@@ -8,7 +8,7 @@
 
 ---
 
-**Backend & Cloud Engineer** en Bogotá 🇨🇴 — construyo APIs y sistemas escalables con Python/Django, apuntando a Cloud Solutions Architecture.
+**Backend & Cloud Engineer En Proceso** en Bogotá 🇨🇴 — construyo sistemas escalables con Python/Django, apuntando a la buena practica.
 
 🔭 Ahora mismo trabajando en **HebraTech**, un sistema de gestión de producción textil.
 
